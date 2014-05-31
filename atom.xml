@@ -4,7 +4,7 @@
   <title><![CDATA[Jesus Family Ministries]]></title>
   <link href="http://statenisland.jesusfamilyministry.org/atom.xml" rel="self"/>
   <link href="http://statenisland.jesusfamilyministry.org/"/>
-  <updated>2014-05-31T01:34:15-04:00</updated>
+  <updated>2014-05-31T12:40:20-04:00</updated>
   <id>http://statenisland.jesusfamilyministry.org/</id>
   <author>
     <name><![CDATA[Jesus Family Church]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[jesus-family-church-christmas-dance-2012]]></title>
+    <link href="http://statenisland.jesusfamilyministry.org/blog/2014/05/31/jesus-family-church-christmas-dance-2012/"/>
+    <updated>2014-05-31T12:35:41-04:00</updated>
+    <id>http://statenisland.jesusfamilyministry.org/blog/2014/05/31/jesus-family-church-christmas-dance-2012</id>
+    <content type="html"><![CDATA[<p>Christmas children dance performance at Jesus family church in Staten Island in NY.</p>
+
+<iframe title="Christmas children Dance performance - Staten Island in NY." class="youtube-player" type="text/html" 
+width="640" height="390" src="http://www.youtube.com/embed/W-Q7RMpINVo"
+frameborder="0" allowFullScreen></iframe>
+
+]]></content>
+  </entry>
   
 </feed>
