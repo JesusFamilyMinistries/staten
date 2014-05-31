@@ -4,7 +4,7 @@
   <title><![CDATA[Jesus Family Ministries]]></title>
   <link href="http://statenisland.jesusfamilyministry.org/atom.xml" rel="self"/>
   <link href="http://statenisland.jesusfamilyministry.org/"/>
-  <updated>2014-05-31T13:01:49-04:00</updated>
+  <updated>2014-05-31T13:06:17-04:00</updated>
   <id>http://statenisland.jesusfamilyministry.org/</id>
   <author>
     <name><![CDATA[Jesus Family Church]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Offline/Online Tamil Sinhala and English Parallel Bible]]></title>
+    <link href="http://statenisland.jesusfamilyministry.org/blog/2014/05/31/offline-online-tamil-sinhala-and-english-parallel-bible/"/>
+    <updated>2014-05-31T13:05:19-04:00</updated>
+    <id>http://statenisland.jesusfamilyministry.org/blog/2014/05/31/offline-online-tamil-sinhala-and-english-parallel-bible</id>
+    <content type="html"><![CDATA[<p>Online/Offline Tamil, Sinhala and English Parallel Bible:
+<a href="https://rawgit.com/andrewsheelan/bible_search/master/vendor/bible/bible_index.html">https://rawgit.com/andrewsheelan/bible_search/master/vendor/bible/bible_index.html</a></p>
+
+<p>Accepts the following search formats for all Bible Chapters and Books:
+eg.
+Mathew
+gen 1
+ps 1:5
+rev 1:2-10
+rev 22:3,2,1,10</p>
+
+<p>Supported in most modern browsers.</p>
+
+<p>Can be Zipped into an Offline version and can also be downloaded (Works only in firefox)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jesus Family Church Tamil Song - 2012]]></title>
