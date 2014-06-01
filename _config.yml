@@ -98,3 +98,9 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+social:
+  visible: true
+  facebook: JFMTamilSinhalaStatenIslandNY
+  googleplus: 111822444200950224504
+  twitter: jfmstatenisland
