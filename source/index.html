@@ -59,13 +59,15 @@ is_homepage: true
 <b>UPDATES: </b>
 {% for post in site.posts %}
   <hr>  
-  <li class="post">
-    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-  </li>
   {% assign content = post.content %}
-
-  <div class="entry-content" >{{ content }}</div>
+  <article class="listing">
+    <h1><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
+    <p class="meta">
+        <i class="icon-calendar"></i>&nbsp;{{ post.date_formatted }}
+    </p>    
+    <div class="entry-content">{{ content }}</div>
   </article>
+
 {% endfor %}
 
 
