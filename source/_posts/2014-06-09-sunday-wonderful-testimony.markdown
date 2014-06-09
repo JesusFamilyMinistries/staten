@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sunday - Wonderful testimony"
-date: 2014-06-09 05:26:27 -0400
+date: 2014-06-08 05:26:27 -0400
 comments: true
 categories: 
 ---
