@@ -58,11 +58,12 @@ is_homepage: true
 
 <b>UPDATES: </b>
 {% for post in site.posts %}
+  <hr>  
   <li class="post">
     <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
   </li>
   {% assign content = post.content %}
-  <hr>
+
   <div class="entry-content" >{{ content }}</div>
   </article>
 {% endfor %}
