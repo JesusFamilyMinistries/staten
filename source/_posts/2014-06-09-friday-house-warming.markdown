@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Friday - House Warming"
+title: "Saturday - House Warming"
 date: 2014-06-09 05:25:00 -0400
 comments: true
 categories: 
