@@ -8,6 +8,10 @@ sidebar: false
 hero_unit: true
 is_homepage: true
 ---
+
+<hr> 
+<b><a href="{{ root_url }}/blog">Click here for More Updates...</a></b>
+<hr> 
 <link rel="stylesheet" type="text/css" href="/stylesheets/custom.css">
 
 <div class="grid-wrapper">
@@ -16,7 +20,7 @@ is_homepage: true
       <div class="grid">
         <div class="grid__item one-whole lap-one-third">
           <span class="icon">
-            <img src="/images/usa.png" style="height: 100px;"/>
+            <img src="/images/usa.png" alt="jesus family ministry staten island usa" style="height: 100px;"/>
           </span>
         </div>
 
@@ -30,7 +34,7 @@ is_homepage: true
       <div class="grid">
         <div class="grid__item one-whole lap-one-third">
           <span class="icon">
-            <img src="/images/india.png" style="height: 100px;"/>
+            <img src="/images/india.png" alt="jesus family ministry india" style="height: 100px;"/>
           </span>
         </div>
 
@@ -44,7 +48,7 @@ is_homepage: true
       <div class="grid">
         <div class="grid__item one-whole lap-one-third">
           <span class="icon">
-            <img src="/images/srilanka.png" style="height: 100px;"/>
+            <img src="/images/srilanka.png" alt="jesus family ministry srilanka" style="height: 100px;"/>
           </span>
         </div>
 		 
@@ -57,25 +61,10 @@ is_homepage: true
 </div>
 
 <hr> 
-<b>UPDATES: </b>
-{% for post in site.posts %}
-  <hr>  
-  {% assign content = post.content %}
-  <article class="listing">
-    <h1><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
-    <p class="meta">
-        <i class="icon-calendar"></i>&nbsp;{{ post.date_formatted }}
-    </p>    
-    <div class="entry-content">{{ content }}</div>
-  </article>
-
-{% endfor %}
-
-<hr> 
 <b><a href="{{ root_url }}/reach-out">REACH US:</a></b>
 
 <h4>Our Location</h4>
-<iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=701+Van+Duzer+Street,+Staten+Island,+New+York+10304&amp;aq=0&amp;oq=701+Van+Duzer+Street,,+Staten+Island,,+New+York+-+10304,+USA.&amp;sll=40.6226929,-74.0851579&amp;sspn=47.838189,107.138672&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=701+Van+Duzer+Street,+Staten+Island,+New+York+10304&amp;ll=40.6226929,-74.0851579&amp;spn=0.002813,0.006539&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=701+Van+Duzer+Street,+Staten+Island,+New+York+10304&amp;aq=0&amp;oq=701+Van+Duzer+Street,,+Staten+Island,,+New+York+-+10304,+USA.&amp;sll=40.6226929,-74.0851579&amp;sspn=47.838189,107.138672&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=701+Van+Duzer+Street,+Staten+Island,+New+York+10304&amp;ll=40.6226929,-74.0851579&amp;spn=0.002813,0.006539&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<a href="{{ root_url }}/reach-out">Click here for the map</a>
 
 <h4>Address:</h4>
     701 Van Duzer St,<br />
