@@ -12,4 +12,4 @@ categories:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/gDTdBT_PuOg?list=UU0_2EnYHaQEormPmi7Ntpng" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/Nm8slt9v3hg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/Nm8slt9v3hg?list=UU0_2EnYHaQEormPmi7Ntpng" frameborder="0" allowfullscreen></iframe>
