@@ -3,7 +3,7 @@ layout: post
 title: "June 22 - 2014 Worship-Healing Sunday Crusade"
 date: 2014-06-22 17:40:04 -0400
 comments: true
-categories: 
+categories: Worship
 ---
 
 <!-- Place this tag in your head or just before your close body tag. -->
